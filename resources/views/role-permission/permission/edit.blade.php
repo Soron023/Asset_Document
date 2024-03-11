@@ -56,5 +56,5 @@
             </div>
         </div>
     </div><!-- /.container-fluid -->
-    </div>
+
 </x-master-layout>
